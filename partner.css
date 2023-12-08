@@ -1,0 +1,13 @@
+header.dashboard-header {
+  background-color: #ffffff !important;
+  border-bottom-color: #004b75 !important;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  color: #000 !important;
+}
+
+header.dashboard-header nav #header {
+  background-size: 50px 40px !important;
+  background-image: url("https://www.netskope.com/wp-content/themes/netskope/images/v3/netskope-logo-reverse.svg") !important;
+}
