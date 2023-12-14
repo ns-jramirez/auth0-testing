@@ -8,6 +8,6 @@ header.dashboard-header {
 }
 
 header.dashboard-header nav #header {
-  background-size: 190px 40px !important;
+  background-size: 300px 100px !important;
   background-image: url("https://www.netskope.com/wp-content/themes/netskope/images/v3/netskope-logo-reverse.svg") !important;
 }
